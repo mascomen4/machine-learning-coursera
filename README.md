@@ -42,7 +42,7 @@ Handwritten functions for:
 2. randInitializeWeights.m - Randomly initialize weights
 3. nnCostFunction.m - Neural network cost function
 
-## Ex5: Regularized Linear Regression and Bias v.s. Variance.
+### Ex5: Regularized Linear Regression and Bias v.s. Variance.
 Motivation:
 Since simple linear regression and polynomial model tends to overfit on the training set, we have to 
 add the regularization term. It penalizes the model parameters for overfitting. 
@@ -51,13 +51,13 @@ add the regularization term. It penalizes the model parameters for overfitting.
 3. polyFeatures.m - Maps data into polynomial feature space.
 4. validationCurve.m - Generates a cross validation curve.
 
-##Ex6: Support Vector Machines. 
+### Ex6: Support Vector Machines. 
 1. gaussianKernel.m - Gaussian kernel for SVM
 2. dataset3Params.m - Parameters to use for Dataset 3
 3. processEmail.m - Email preprocessing
 4. emailFeatures.m - Feature extraction from emails
 
-##Ex7: K-means Clustering and Principal Component Analysis.
+### Ex7: K-means Clustering and Principal Component Analysis.
 In this exercise I performed the K-means clustering algorithm for image compression.
 This algorithm tries to find the points of main semantic weight in the image and 
 removing non-semantically important data to make the image size lower. 
@@ -69,7 +69,7 @@ removing non-semantically important data to make the image size lower.
 5. computeCentroids.m - Compute centroid means (used in K-means)
 6. kMeansInitCentroids.m - Initialization for K-means centroids
 
-##Ex8: Anomaly Detection and Recommender Systems.
+### Ex8: Anomaly Detection and Recommender Systems.
 In this excercise I discover the anomaly detection on the servers inside the network.
 Additionaly, I experiment on unsupervised learning predicting the number of points
 that user will give to a particular movie based on his previous reviews. 
